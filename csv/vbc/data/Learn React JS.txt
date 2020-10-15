@@ -1,0 +1,18 @@
+No of videos:   7
+Time:               8 hours 12 minutes and 4 seconds
+
+React JS
+ 
+Start Intro to React (99:34)
+ 
+Start Advanced Concepts of React (67:43)
+ 
+Start Concepts Implementation & React Route (97:25)
+ 
+Start React Redux (72:36)
+ 
+Start React hooks (64:13)
+ 
+Start Revision and extras (46:18)
+ 
+Start How to Earn with React JS (44:15)

@@ -1,0 +1,46 @@
+No of videos:   21
+Time:           6 hours 0 minutes and 41 seconds
+
+Introduction to Data Science
+ 
+ Introduction: What is Data Science (23-07-20) (13:04)
+ 
+ Introduction: What is Data Science (23-07-20) (6:34)
+ 
+ Introduction: What is Data Science (23-07-20) (14:29)
+ 
+Start Statistical Inference (25-07-20) (16:24)
+ 
+Start Intro to Python (27-07-20) (31:09)
+ 
+Start Exploratory Data Analysis and the Data Science Process (12:52)
+ 
+Start Exploratory Data Analysis and the Data Science Process (14:10)
+ 
+Start Exploratory Data Analysis and the Data Science Process (12:42)
+ 
+Start Exploratory Data Analysis and the Data Science Process (21:04)
+ 
+Start Exploratory Data Analysis and the Data Science Process (18:54)
+ 
+Start Exploratory Data Analysis and the Data Science Process (7:03)
+ 
+Start Exploratory Data Analysis and the Data Science Process (28:09)
+ 
+Start Exploratory Data Analysis and the Data Science Process (11:54)
+ 
+Start Introduction to Machine Learning Aug 04, 2020 (33:39)
+ 
+Start Introduction to Machine Learning (22:50)
+ 
+Start Basic Machine Learning Algorithms (20:02)
+ 
+Start Basic Machine Learning Algorithms (12:07)
+ 
+Start Basic Machine Learning Algorithms (18:51)
+ 
+Start Basic Machine Learning Algorithms (14:37)
+ 
+Start Freelancing projects and details (21:57)
+ 
+ Intro to NN (8:10)

@@ -1,0 +1,28 @@
+No of videos:   12
+Time:           6 hours 51 minutes and 31 seconds
+
+PHP AND MySQL
+ 
+Start Introduction (20:20)
+ 
+Start Setting up a Test Bed (24:06)
+ 
+Start Overview of PHP (25:22)
+ 
+Start Variables & Logical operators in PHP (46:34)
+ 
+Start Numbers & Strings in PHP (50:11)
+ 
+Start Control structures in PHP (30:30)
+ 
+Start Transferring information between PHP pages (24:07)
+ 
+Start Database fundamentals (8:40)
+ 
+Start Creating a database (14:01)
+ 
+Start Getting PHP to connect to MySQL (35:23)
+ 
+Start Querying MySQL using PHP (61:36)
+ 
+Start Building a Web Application (70:41)

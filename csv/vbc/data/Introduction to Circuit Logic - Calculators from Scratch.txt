@@ -1,0 +1,28 @@
+No of videos:   12
+Time:           6 hours 57 minutes and 19 seconds
+
+Digital Logic Circuits
+ 
+Start How to Sell the Skill (32:19)
+ 
+Start Arduino Programming Environment (IDE) (30:14)
+ 
+Start Arduino Boards vs Simulation (30:58)
+ 
+Start Analog Vs Digital signals (45:44)
+ 
+Start Coding structure of Arduino (First Arduino Program) (37:11)
+ 
+Start Coding - Variables and Decisions (58:06)
+ 
+Start Interfacing of digital signals (26:58)
+ 
+Start Interfacing of analog signals (29:39)
+ 
+Start Real life sensors and actuators (29:38)
+ 
+Start Practical project series – LED, Button and Dimmer (34:02)
+ 
+Start Practical project series – LCD and Buzzer (29:01)
+ 
+Start Practical project series – Motors and Motor Drivers (33:29)

@@ -1,0 +1,82 @@
+No of videos:   40
+Time:               11 hours 15 minutes and 17 seconds
+ 
+ Course overview (3:29)
+ 
+ Introduction (0:27)
+ 
+ What is a Content Management System (3:15)
+ 
+ What makes WordPress better than other CMS (2:30)
+ 
+ Types of websites that can be built with WordPress (1:56)
+ 
+ Ways to earn money by working with WordPress (2:52)
+ 
+Start Initial Setup (0:34)
+ 
+Start Domain registration & DNS (10:15)
+ 
+Start WordPress.com vs. WordPress.org (0:51)
+ 
+Start Web hosting (conventional & cloud) (22:56)
+ 
+Start Installing WordPress (9:13)
+ 
+Start Configuring WordPress (14:54)
+ 
+Start Uploading, publishing & importing content (19:24)
+ 
+Start Themes & Plugins (1:59)
+ 
+Start Installing themes and plugins (5:30)
+ 
+Start Updating themes and plugins (3:19)
+ 
+Start Choosing the right themes and plugins (4:45)
+ 
+Start Recommended Themes & plugins for most popular use cases (9:36)
+ 
+Start Putting it all together: our first WordPress website (13:34)
+ 
+Start Website forms (1:58)
+ 
+Start Several use cases for website forms (8:37)
+ 
+Start Contact form setup (25:50)
+ 
+Start Newsletter subscription form setup (11:02)
+ 
+Start Advanced form setup with multiple steps and conditional logic (25:39)
+ 
+Start Selling simple products and services and accepting payments using forms (13:42)
+ 
+Start Integrating with third-party services using forms (11:24)
+ 
+Start Post Types, Taxonomies and Fields (0:33)
+ 
+Start Default vs. custom post types (8:05)
+ 
+Start Default vs. custom taxonomies (5:17)
+ 
+Start Default vs. custom fields (4:36)
+ 
+Start Best plugins (65:16)
+ 
+Start E-Commerce (0:46)
+ 
+Start Introduction to WooCommerce & Easy Digital Downloads (2:35)
+ 
+Start Explanation of different product types and when to use which (36:26)
+ 
+Start Affiliate & dropshipping setups (29:47)
+ 
+Start Selling subscriptions and memberships- Part 1 (64:42)
+ 
+Start Selling subscriptions and memberships - Part 2 (73:52)
+ 
+Start Multi-vendor e-commerce sites (34:21)
+ 
+Start Multi-vendor e-commerce sites - Part 2 (34:21)
+ 
+Start Building complex dynamic content sites without coding (85:09)

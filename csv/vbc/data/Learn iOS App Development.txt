@@ -1,0 +1,28 @@
+No of videos:   12
+Time:           4 hours 53 minutes and 34 seconds
+
+iOS Development
+ 
+Start Course: Introduction to iOS Development (19:00)
+ 
+Start Xcode - Introduction & Customizing the IDE (25:41)
+ 
+Start Objective-C - The dying mamoth (25:41)
+ 
+Start Swift - The little unicorn (75:27)
+ 
+Start Interface Builder - The curious designer (26:01)
+ 
+Start Git - The trusted confidant (23:58)
+ 
+Start Movies DB - The super star app - part 1 (17:04)
+ 
+Start Movies DB - The super star app - part 2 (9:07)
+ 
+Start Movies DB - The super star app - part 3 (9:18)
+ 
+Start Movies DB - The super star app - part 4 (17:02)
+ 
+Start Design Patterns (24:04)
+ 
+Start Freelancing (21:11)

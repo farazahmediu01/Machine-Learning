@@ -1,0 +1,18 @@
+No of videos:   7
+Time:           8 hours 45 minutes and 42 seconds
+
+Android Development
+ 
+Start Introduction to Android Development (50:47)
+ 
+Start Android Layouts and Activity Life cycle (85:32)
+ 
+Start Intents and Dynamic Views (100:28)
+ 
+Start Storage (110:52)
+ 
+Start Threads and web services (73:42)
+ 
+Start Broadcasts & Notifications (54:36)
+ 
+Start Developing Career in Android Development (49:45)

@@ -1,0 +1,18 @@
+No of videos:   7
+Time:           6 hours 40 minutes and 44 seconds
+
+Laravel Framework Specialization
+ 
+Start Laravel Fundamentals – Database – Laravel Migrations (58:07)
+ 
+Start MVC Model (53:24)
+ 
+Start Laravel Fundamentals – Laravel Blade templating engine (61:40)
+ 
+Start Laravel Forms & HTML Component (67:43)
+ 
+Start Laravel Fundamentals - Raw SQL Queries (72:04)
+ 
+Start Laravel Fundamentals – Database – Eloquent (72:04)
+ 
+Start Freelancing projects and details (15:42)

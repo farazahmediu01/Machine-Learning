@@ -1,0 +1,18 @@
+No of videos:   6
+Time:           1 hours 29 minutes and 29 seconds
+
+First Section
+ 
+Start Introduction to Analytics (31-07-20) (15:43)
+ 
+Start Set up google analytics for your website (30-07-20) (14:32)
+ 
+Start Analyze different types of reporting (23:45)
+ 
+Start Learn about segments and dimensions (10:57)
+ 
+Start Campaign Tracking (13:52)
+ 
+Start Goals and Conversions (10:40)
+ 
+Start Glossary-Top 50 Terms to Know
